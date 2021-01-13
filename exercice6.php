@@ -3,10 +3,10 @@ Exercice 6:
       puis affiche si cette année est bisextile ou pas 
 
 <?php
-$annee=rand(1999,2021);
-if $anne==366jrs;{
+$annee=1999);
+if $anne%4==0;{
  echo "$anne est bisextile"
-}else $anne==365jrs;{
+}else{
     echo "$anne n'est pas bissextille";
 } 
 
